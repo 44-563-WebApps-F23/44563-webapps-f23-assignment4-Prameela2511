@@ -14,7 +14,7 @@
     background-color: skyblue;
     color: blueviolet;
 }
-.MRS.ALVING{
+.MRSALVING{
     font-size: 20px;
     color: greenyellow;
     font-family: 'Times New Roman', Times, serif;
@@ -26,7 +26,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
-.MRS.ALVING:hover{
+.MRSALVING:hover{
     text-shadow:8px 9px 7px rgb(7, 116, 40);
     border:solid 2px rgb(75, 69, 74);
 }
