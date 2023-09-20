@@ -26,6 +26,15 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
+.MRS.ALVING:hover{
+    text-shadow:8px 9px 7px rgb(7, 116, 40);
+    border:solid 2px rgb(75, 69, 74);
+}
+.REGINA:hover{
+    text-shadow:8px 9px 7px rgb(7, 116, 40);
+    border:solid 2px rgb(75, 69, 74);
+}
+
 #Table{
     margin: centre;
     padding: 5px;
