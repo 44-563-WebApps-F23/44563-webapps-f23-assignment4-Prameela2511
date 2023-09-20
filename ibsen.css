@@ -30,26 +30,26 @@
     margin: centre;
     padding: 5px;
     border: 2px solid #1b1a1a;
-    color:rgb(136, 26, 209);
-    background-color: cadetblue;
+    color:rgb(154, 115, 146);
+    background-color: beige;
     text-align: center;
 }
 th{
-    background-color: cadetblue;
+    background-color: rgb(116, 184, 218);
     color:aquamarine;
     text-align:center;
     padding: 20px;
-    border:3px solid cyan;
+    border:3px solid rgb(169, 119, 199);
 }
 
 td{
-    border:3px rgb(205,199,215);
+    border:3px rgb(60, 151, 146);
     text-align:right;
     padding:auto;
 }
 tr{
-    background-color:rgb(182,192,192);
+    background-color:rgb(113, 161, 161);
 }
 tr:nth-child(even){
-    background-color: aquamarine;
+    background-color: rgb(202, 79, 35);
 }
