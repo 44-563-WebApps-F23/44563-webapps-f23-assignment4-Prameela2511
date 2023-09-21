@@ -10,6 +10,9 @@
     background-color: aquamarine;
 
 }
+.name{
+    color:darkblue;
+}
 .direction:hover{
     background-color: skyblue;
     color: blueviolet;
