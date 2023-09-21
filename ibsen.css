@@ -26,6 +26,18 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
+.MANDERS{
+    font-size: 20px;
+    color: rgb(209, 225, 192);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.ENGSTRAND{
+    font-size: 20px;
+    color: rgb(121, 203, 202);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
 .MRSALVING:hover{
     text-shadow:8px 9px 7px rgb(7, 116, 40);
     border:solid 2px rgb(75, 69, 74);
